@@ -1,0 +1,8 @@
+payload:
+
+  - TCP-PORT,80
+  - TCP-PORT,443
+  - UDP-PORT,34784
+  - UDP-PORT,45395
+  - UDP-PORT,50318
+  - UDP-PORT,59234
